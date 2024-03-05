@@ -18,3 +18,4 @@ int main () {
     cout << "Total Tax $" << totalTax;
 
      return 0;
+}
